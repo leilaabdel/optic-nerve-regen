@@ -4,3 +4,5 @@ This code details how to approximate the regeneration by computing differences i
 
 
 ![png](imgs/cover-diff-img.png)
+
+The main notebook for generating this figure can be found in the `notebooks` folder. Just click the `Run in Colab` Button and have fun 😄.
